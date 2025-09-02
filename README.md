@@ -1,6 +1,6 @@
 # Flutter Firebase Example Application
 Example application for the course 208.1 – Mobile development summer school
-
+Done with @iimfeld and @Eteroclia in Summer 2024
 ## Description
 The demo app was written with Flutter and uses Firebase's Firestore Database to store tasks and
 Firebase Authentication to verify the user. In the app, the user is prompted to log in initially. If no
