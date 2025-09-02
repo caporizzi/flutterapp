@@ -146,6 +146,8 @@ app.*.symbols
 !.vscode/settings.json
 
 
+*:Zone.Identifier
+
 .vscode
 /task_manager/.metadata
 venv
